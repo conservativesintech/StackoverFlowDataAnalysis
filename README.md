@@ -40,7 +40,8 @@ With the Shaded Density Plots of the 5 metrics (i.e., answer_count, comment_coun
 
 With the time series graph of the 5 metrics (i.e., answer_count, comment_count, favorite_count, view_count, and score) mentioned below, we come to the conclusion that wordpress tag conatins higher concentration of all the 5 metric values compared to drupal tag over the the sliding intervals of 7 days. With regards to the posts containing wordpress tag, the metrics such as Answer Count, View Count, and Score shows an overall decreasing trend over the Creation Date intervals. Moreover, the comment_count and favorite_count of posts containing wordpress tag shows high fluctuation in spikes with no proper trend observed for posts created from January to June. 
 
-In case of SO posts containing drupal tag, all the five metrics (i.e., answer_count, comment_count, favorite_count, view_count, and score) doesnot show any major high count  compared to wordpress tag. In addition, the overall trend of all the 5 metrics for drupal contained posts created during the span of 6 months shows steadiness low deviation and low count.
+In case of SO posts containing drupal tag, all the five metrics (i.e., answer_count, comment_count, favorite_count, view_count, and score) doesnot show any major high count  compared to wordpress tag. In addition, the overall trend of all the 5 metrics for drupal containing posts created during the span of 6 months shows steadiness with low deviation and low count.
+
 
 ![](https://github.com/jaskirat111/StackoverFlowDataAnalysis/blob/main/figures/Answer%20Count%20Trend%20of%202%20tags.jpg)
 ![](https://github.com/jaskirat111/StackoverFlowDataAnalysis/blob/main/figures/View%20Count%20Trend%20of%202%20tags.jpg)
