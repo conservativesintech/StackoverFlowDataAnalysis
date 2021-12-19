@@ -26,8 +26,13 @@ In addition, the following Python packages were installed:
 
 # Data Analysis Results
 
-## Understanding the differences in distribution of the 5 metrics between the posts of the two tags
+## Analysing the differences in distribution of the 5 metrics between the posts of the two tags
 
-With the density plots of the 5 metrics (i.e., answer_count, comment_count, favorite_count, view_count, and score), we come to the conclusion that wordpress tag conatin higher density of metric distributions compared to drupal tag. In Addition, the range of metric values of wordpress tag is more wide compared to drupal tag.
+With the Shaded Density Plots of the 5 metrics (i.e., answer_count, comment_count, favorite_count, view_count, and score) mentioned below , we come to the conclusion that wordpress tag conatin higher density of metric distributions compared to drupal tag. In Addition, the Rug plots shows that the range of metric values of wordpress tag is more wide compared to drupal tag.
 
+![](https://github.com/jaskirat111/StackoverFlowDataAnalysis/blob/main/figures/Shaded%20Density%20Plot%20with%20Rug%20Plot%20for%20Answer%20Count.jpg)
+![](https://github.com/jaskirat111/StackoverFlowDataAnalysis/blob/main/figures/Shaded%20Density%20Plot%20with%20Rug%20Plot%20for%20Comment%20Count.jpg)
+![](https://github.com/jaskirat111/StackoverFlowDataAnalysis/blob/main/figures/Shaded%20Density%20Plot%20with%20Rug%20Plot%20for%20Favorite%20Count.jpg)
+![](https://github.com/jaskirat111/StackoverFlowDataAnalysis/blob/main/figures/Shaded%20Density%20Plot%20with%20Rug%20Plot%20for%20View%20Count.jpg)
+![](https://github.com/jaskirat111/StackoverFlowDataAnalysis/blob/main/figures/Shaded%20Density%20Plot%20with%20Rug%20Plot%20for%20Score.jpg)
 
