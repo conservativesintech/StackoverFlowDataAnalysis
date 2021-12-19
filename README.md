@@ -10,9 +10,9 @@ The following are the two types of Data Analysis techniques which were performed
 # Required tools and packages
 The following tools were installed on the machine where the scripts were originally executed:
 * Python 3.6.8
+* Jupyter Notebook
 
 In addition, the following Python packages were installed:
-
 * pandas
 * matplotlib
 * seaborn
@@ -20,11 +20,16 @@ In addition, the following Python packages were installed:
 * bq_helper
 
 # Data Extraction
+
 1. Obtain the SO posts, i.e., questions and their answers, for two tags (i.e., “wordpress” and “drupal”) within a given time period (i.e., "01/2021-06/2021") using biq query. 
 2. Extracted for each post the mentioned id, creation_date, tags, answer_count, comment_count, favorite_count, view_count, and score. 
 3. Generated csv files for the wordpress and drupal tags with one line per post, where each line contains an identifier for a post (i.e., id) and the values for the 5 chosen metrics (i.e., answer_count, comment_count, favorite_count, view_count, and score)
 
+The Code for Data Extraction process is <a href="https://github.com/jaskirat111/StackoverFlowDataAnalysis/blob/main/Stackoverflow_DataExtract.ipynb">here</a>
+
 # Data Analysis Results
+
+The Code for Data Analaysis part is <a href="https://github.com/jaskirat111/StackoverFlowDataAnalysis/blob/main/StackOverFlow_DataAnalysis.ipynb">here</a>  
 
 ## Analysing the differences in distribution of the 5 metrics between the posts of the two tags
 
