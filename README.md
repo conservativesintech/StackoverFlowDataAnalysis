@@ -9,15 +9,15 @@ The following are the two types of Data Analysis techniques which were performed
 
 # Required tools and packages
 The following tools were installed on the machine where the scripts were originally executed:
--> Python 3.6.8
+* Python 3.6.8
 
 In addition, the following Python packages were installed:
 
--> pandas
--> matplotlib
--> seaborn
--> datetime
--> bq_helper
+* pandas
+* matplotlib
+* seaborn
+* datetime
+* bq_helper
 
 
 
